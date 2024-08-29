@@ -4,7 +4,7 @@
 - 🧑🏻‍🔬 I'm want to be a data scientist.
 - 📫 How to reach me ankitsinghak9051@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I,m 6'ft
+- ⚡ Fun fact: I'm 6'ft
 
 <!---
 Iankitsinghak/Iankitsinghak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
