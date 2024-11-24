@@ -2,6 +2,7 @@
 - 👀 I’m interested in app & web devlopment
 - 🌱 I’m currently learning python, c++, java.
 - 🧑🏻‍🔬 I'm want to be a data scientist.
+- 🤝 I like to connect with people to learn and share experiences  
 - 📫 How to reach me ankitsinghak9051@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm 6'ft
