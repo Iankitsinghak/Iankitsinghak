@@ -46,9 +46,27 @@
 - 💬 Ask me about ...  
 - 📫 How to reach me: ...  
 - 😄 Pronouns: ...  
-- ⚡ Fun fact: ...  
+- ⚡ Fun fact: ...
 
 ---
+# Hi there, I'm Iankitsinghak! 👋
+
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter)](https://twitter.com/yourusername)
+[![Website](https://img.shields.io/badge/Website-grey?logo=google-chrome)](https://yourwebsite.com)
+
+## 🚀 Projects
+- [Project One](https://github.com/Iankitsinghak/project-one) - Short description about project one.
+- [Project Two](https://github.com/Iankitsinghak/project-two) - Short description about project two.
+- [More Projects...](https://github.com/Iankitsinghak?tab=repositories)
+
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+<!-- Add more skills as needed -->
+
 
 <!-- Dynamic Banner (optional, replace with your own or use a service like shields.io, banner services, or a custom GIF/PNG) -->
 
