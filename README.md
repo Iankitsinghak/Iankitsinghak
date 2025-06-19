@@ -1,5 +1,9 @@
 <!-- Profile Banner -->
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20profile!&fontSize=36" alt="Dynamic Banner" />
+</p>
+
+<p align="center">
   <img src="https://github.com/Iankitsinghak/Iankitsinghak/assets/banner.gif" alt="Live Banner" width="100%" />
 </p>
 
@@ -47,6 +51,4 @@
 ---
 
 <!-- Dynamic Banner (optional, replace with your own or use a service like shields.io, banner services, or a custom GIF/PNG) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20profile!&fontSize=36" alt="Dynamic Banner" />
-</p>
+
