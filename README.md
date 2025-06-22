@@ -1,32 +1,27 @@
-<!-- Dynamic Wave Banner -->
+<!-- 🌊 Dynamic Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=140&section=header&text=Welcome%20to%20My%20Profile!&fontSize=35&fontColor=ffffff" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20Aboard,%20Captain!&fontAlign=50&fontColor=ffffff&colorTime=gradient&animation=twinkling&fontSize=36" />
 </p>
 
-<!-- Custom Animated Banner -->
+<!-- 🚀 Custom Animated Banner -->
 <p align="center">
   <img src="https://github.com/Iankitsinghak/Iankitsinghak/assets/banner.gif" alt="Captain's Banner" width="100%" />
 </p>
 
 ---
 
-<h2 align="center"> 🧑‍💻 About Me </h2>
+## 🧠 About Me
 
-<p align="center">
-  I'm <b>Ankit Singh</b> aka <b>Captain</b> — a passionate C++ programmer and aspiring developer who enjoys working with <b>MongoDB</b>, <b>SQL</b>, and backend logic. 
-  I love building real-world projects and turning ideas into functional web applications.
-</p>
+Hi there! I'm **Ankit Singh**, aka **Captain** — a passionate C++ programmer and tech enthusiast who enjoys exploring the logic behind code, especially when working with **MongoDB**, **SQL**, and powerful backend systems.
 
-<p align="center">
-  🔭 Currently building: <b>Restaurant Menu & Order Management System</b><br/>
-  🧠 Learning: <b>Advanced DSA</b>, backend architectures, and database optimization<br/>
-  🎯 Goal: To become a sharp problem solver and a backend wizard 🪄<br/>
-  🍿 Fun fact: I debug better with popcorn 😄
-</p>
+- 🔭 Working on: **Restaurant Menu & Order Management System** using MERN stack  
+- 🧠 Learning: Advanced **DSA in C++**, scalable backend systems  
+- 🌟 Passion: Building, solving, and deploying real-world apps  
+- 🎬 Fun Fact: I love debugging as much as watching movies
 
 ---
 
-<h2 align="center"> 🔧 Tech Stack </h2>
+## 🧰 Tech Stack
 
 <p align="center">
   <!-- Languages -->
@@ -44,7 +39,7 @@
 </p>
 
 <p align="center">
-  <!-- Backend & DB -->
+  <!-- Backend & Databases -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -61,7 +56,31 @@
 
 ---
 
-<h2 align="center"> 📈 GitHub Stats </h2>
+## 🚀 Featured Projects
+
+### 📌 [Gistify – AI Webpage Summarizer](https://github.com/Iankitsinghak/Gistify-AI-Summarizer)
+> Summarizes webpages and PDFs using Gemini AI  
+> ✅ Features:  
+> - Multilingual summaries  
+> - Keyword highlighting  
+> - Speech output  
+> - Download as PDF or TXT  
+> - Ask questions from the summary (Coming soon!)
+
+### 📌 [Restaurant Menu & Order Management System](https://github.com/Iankitsinghak/Restaurant-Menu-Management)
+> A simple food ordering system using MongoDB  
+> ✅ Features:  
+> - Menu creation and updates  
+> - Order tracking  
+> - Clean UI with dark theme  
+> - Built with Node.js + MongoDB + React  
+> - Easily deployable on Render and Vercel
+
+Want more? Check out my full list of repositories 👉 [GitHub Projects](https://github.com/Iankitsinghak?tab=repositories)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Iankitsinghak&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -70,7 +89,7 @@
 
 ---
 
-<h2 align="center"> 🌐 Connect with Me </h2>
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://github.com/Iankitsinghak">
@@ -86,7 +105,7 @@
 
 ---
 
-<!-- Dynamic Footer Banner -->
+<!-- 🌊 Footer Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0c29,302b63,24243e&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0f0c29,302b63,24243e"/>
 </p>
