@@ -1,11 +1,10 @@
 <!-- 🌊 Dynamic Welcome Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Welcome%20Aboard,%20Captain!&fontAlign=50&fontColor=ffffff&colorTime=gradient&animation=twinkling&fontSize=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20my%20profile!&fontSize=36" alt="Dynamic Banner" />
 </p>
 
-<!-- 🚀 Custom Animated Banner -->
 <p align="center">
-  <img src="https://github.com/Iankitsinghak/Iankitsinghak/assets/banner.gif" alt="Captain's Banner" width="100%" />
+  <img src="https://github.com/Iankitsinghak/Iankitsinghak/assets/banner.gif" alt="Live Banner" width="100%" />
 </p>
 
 ---
@@ -95,10 +94,10 @@ Want more? Check out my full list of repositories 👉 [GitHub Projects](https:/
   <a href="https://github.com/Iankitsinghak">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin">
+  <a href="https://linkedin.com/in/ankit-singh-5937a4324">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://instagram.com/yourinsta">
+  <a href="https://instagram.com/ankit__singh__ak">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
