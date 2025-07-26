@@ -1,6 +1,6 @@
 <!-- Wavy Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:FFB86C&height=180&section=header&text=Hi%20👋,%20I'm%20ANKIT%20SINGH&fontSize=40&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Open%20Source%20Contributor&descSize=22&descAlign=65" alt="wavy banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:FFB86C&height=200&section=header&text=Hi%20👋,%20I'm%20ANKIT%20SINGH&fontSize=40&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Open%20Source%20Contributor&descSize=22&descAlign=50" alt="wavy banner"/>
 </p>
 
 <h3 align="center">🚀 Passionate full stack developer and CSE student exploring new tech stacks & active open-source contributor collaborating with amazing organizations. Sponsoring me fuels my journey to learn, build, and innovate—let’s grow together! 💡✨</h3>
