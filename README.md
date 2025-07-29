@@ -19,17 +19,17 @@
 
 ---
 
-### 🔭 I’m currently working on and looking for help with [Hospital Management System](https://github.com/Iankitsinghak/Hospital-Management-System)
+### 🔭 I’m currently working on and looking for help with [SkillFordge-X](https://github.com/Iankitsinghak/Skillfordge-X)
 
-### 🌱 I’m currently learning **WEB3, CRYPTO**
+### 🌱 I’m currently learning **WEBDEV, SD**
 
-### 👨‍💻 All of my projects are available at [Portfolio](http://bit.ly/44s2zlX)
+### 👨‍💻 All of my projects are available at [Portfolio](https://iankitsinghak.github.io/akankit.portfolio/)
 
 ### 💬 Ask me about **DSA, System Design, Web3, Crypto, DevOps**
 
 ### 📫 How to reach me: **iankitsinghak@gmail.com**
 
-### 📄 Know about my experiences: [Resume](http://bit.ly/44s2zlX)
+### 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OMYD_Tag1aUcaehZsmApI941fVguVOhu/view?usp=drivesdk)
 
 ---
 
@@ -42,7 +42,6 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <!-- Add/replace with your actual profiles -->
   <a href="https://dev.to/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="36" height="36"/></a>
   <a href="https://twitter.com/Iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" height="36"/></a>
   <a href="https://linkedin.com/in/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" height="36"/></a>
