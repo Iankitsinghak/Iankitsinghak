@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:FFB86C&height=200&section=header&text=Hi%20👋,%20I'm%20ANKIT%20SINGH&fontSize=40&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Open%20Source%20Contributor&descSize=22&descAlign=50" alt="wavy banner"/>
 
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl6OWQ3aDh6Z2FicmluOHUydmVpczB0MHc1MnhrZG9iY3M5ZzNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif)" alt="Coding" width="200" style="float:left; margin-right: 20px;" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGl6OWQ3aDh6Z2FicmluOHUydmVpczB0MHc1MnhrZG9iY3M5ZzNjdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif)" alt="Coding" width="200" style="float:left; margin-right: 200px;" />
 </p>
 
 <h3 align="center">🚀 Passionate full stack developer and CSE student exploring new tech stacks & active open-source contributor collaborating with amazing organizations. Sponsoring me fuels my journey to learn, build, and innovate—let’s grow together! 💡✨</h3>
@@ -44,15 +44,15 @@
 ## 🌐 Connect with me
 
 <p align="left">
-  <a href="https://dev.to/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="36" height="36"/></a>
-  <a href="https://twitter.com/Iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" height="36"/></a>
-  <a href="https://linkedin.com/in/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" height="36"/></a>
+  <a href="[https://dev.to/iankitsinghak](https://github.com/Iankitsinghak)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="36" height="36"/></a>
+  <a href="[https://twitter.com/Iankitsinghak](https://x.com/I_AK_Ankit291)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36" height="36"/></a>
+  <a href="[https://linkedin.com/in/iankitsinghak](https://www.linkedin.com/in/ankit-singh-5937a4324/)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36" height="36"/></a>
   <a href="https://fb.com/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36" height="36"/></a>
-  <a href="https://instagram.com/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36"/></a>
+  <a href="[https://instagram.com/iankitsinghak](https://www.instagram.com/ankit__singh__ak)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36" height="36"/></a>
   <a href="https://www.codechef.com/users/iankitsinghak"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="36" height="36"/></a>
-  <a href="https://www.hackerrank.com/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36" height="36"/></a>
+  <a href="[https://www.hackerrank.com/iankitsinghak](https://www.hackerrank.com/profile/iankitsinghak)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36" height="36"/></a>
   <a href="https://codeforces.com/profile/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="36" height="36"/></a>
-  <a href="https://www.leetcode.com/iankitsinghak"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" height="36"/></a>
+  <a href="https://leetcode.com/u/akankit404/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36" height="36"/></a>
 </p>
 
 ---
