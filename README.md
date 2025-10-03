@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/Iankitsinghak"><img src="https://img.shields.io/twitter/follow/Iankitsinghak?logo=twitter&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/iankitsinghak"><img src="https://img.shields.io/badge/LinkedIn-iankitsinghak-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/I_AK_Ankit291"><img src="https://img.shields.io/twitter/follow/Iankitsinghak?logo=twitter&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/ankit-singh-5937a4324"><img src="https://img.shields.io/badge/LinkedIn-iankitsinghak-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://www.buymeacoffee.com/iankitsinghak"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee" /></a>
   <a href="https://ko-fi.com/iankitsinghak"><img src="https://img.shields.io/badge/Ko--fi-iankitsinghak-FF5E5B?style=for-the-badge&logo=ko-fi" /></a>
 </p>
