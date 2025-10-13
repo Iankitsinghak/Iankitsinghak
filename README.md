@@ -28,7 +28,7 @@
 
 ### 💬 Ask me about **DSA, System Design, Web3, Crypto, DevOps**
 
-### 📫 How to reach me: **iankitsinghak@gmail.com**
+### 📫 How to reach me: **ankitsinghak9051@gmail.com**
 
 ### 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1OMYD_Tag1aUcaehZsmApI941fVguVOhu/view?usp=drivesdk)
 
