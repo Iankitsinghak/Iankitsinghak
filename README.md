@@ -63,21 +63,28 @@ Hey there, I’m **Ankit Singh** — a passionate **CSE student** and **Full Sta
 
 ---
 
-### ⚙️ GitHub Analytics
+<!-- GitHub Stats Section -->
+<h2 align="center">⚙️ GitHub Analytics</h2>
 
+<div align="center">
+
+  <!-- Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=iankitsinghak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+
+  <!-- Streak Card 
+  <img src="https://streak-stats.demolab.com?user=Iankitsinghak&theme=tokyonight&hide_border=true" height="165"/> -->
+
+</div>
+
+<!-- Most Used Languages -->
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Iankitsinghak&show_icons=true&theme=radical&hide_border=true" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=Iankitsinghak&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iankitsinghak&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
 
+<!-- Contributor Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iankitsinghak&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Iankitsinghak&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
 </p>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Iankitsinghak&limit=5&theme=gruvbox&combine_all_yearly_contributions=true" />
-</p>
-
 ---
 
 ### 🎯 Fun Facts
