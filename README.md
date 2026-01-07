@@ -16,7 +16,7 @@
 
 Hey there, I’m **Ankit Singh** — a passionate **CSE student** and **Full Stack Developer** who loves turning caffeine, chaos, and curiosity into *clean, scalable systems*.  
 
-- 🔭 Currently building: **[HerFlow](https://her-flow-nine.vercel.app)** — an AI-powered dev collaboration platform for coders who want to *build & grow together*.  
+- 🔭 Currently building: **[HerFlow](https://her-flow-nine.vercel.app)** — an AI-powered platform for Womens and girls o aware about periods*.  
 - 🌦 Also working on **ClimaBotX**, an AI weather advisory for real-world impact.  
 - ⚡ Exploring **DevOps, Web3 & System Design** to push my limits.  
 - 🧩 I believe in: “Building projects that solve real problems — not just decorate portfolios.”  
