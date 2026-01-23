@@ -1,3 +1,14 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Iankitsinghak/Iankitsinghak/main/Gemini_Generated_Image_u72e00u72e00u72e.png"
+    alt="Ankit Singh | Developer Banner"
+    width="100%"
+  />
+</p>
+
+<br/>
+
+
 <div align="center">
 
 # Hi 👋, I'm ANKIT SINGH!
