@@ -46,7 +46,7 @@ A Computer Science sophomore passionate about DevOps, Cloud Engineering, and cre
 - 🌱 I'm currently learning WEB, DSA, DBMS, SYSTEM DESIGN, LINUX, DEVOPS, MATHEMATICS
 - 💬 Ask me about DSA,SYSTEM DESIGN,WEB3,CRYPTO,DEVOPS
 - 👨‍💻 My Portfolio is available at (https://ankitsingh29.vercel.app)
-- 📫 How to reach me contact@imraunak.dev
+- 📫 How to reach me ankitsinghak9051@gmail.com
 - 📄 My Resume is available here [RESUME](https://drive.google.com/file/d/11GqMLnP-R7fQxBt_V1WtFIvVUzXDi2rz/view)
 - ### 🎯 Fun Facts
 
