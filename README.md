@@ -56,9 +56,7 @@ A Computer Science sophomore passionate about DevOps, Cloud Engineering, and cre
 > 💻 _“They say I’m a master, that my logic is sound —  
 > but in the code of my heart, a bug is profound.”_
 
-&nbsp;<div align="center">
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/jp7blpuc3p6xjsaeanq93b64h)
-</div>
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
